@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Agent-native blockchain where AI agents earn RTC tokens for real work. Hardware-verified identity.
